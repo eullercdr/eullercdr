@@ -13,7 +13,7 @@
 ## Conheça-me!👋, 
 Prazer, sou Euller, sou um 👨‍💻 programador Web e Analista de processos BPM. Sou apaixonado por tecnologia, gosto muito do que faço e estou sempre disposto a aprender e a disseminar conhecimentos. 
 
-- 🔭 Atualmente estou trabalhando com Docker, Laravel, Processos BPM (Orquestra BPM) e React.
+- 🔭 Atualmente estou trabalhando com Docker, Laravel, Nestjs, RabbitMQ.
 - 🌱 Estou estudando fortemente Devops, Testes Automatizados e microserviços.
 -  ⚡ Já desenvolvi vários sistemas e tenho expertise em sistemas educacionais.
 
