@@ -6,11 +6,8 @@
 ![Linkedin Badge](https://img.shields.io/badge/-Laravel-blue?style=flat-square&logo=Laravel&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker##&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-GITLAB-red?style=flat-square&logo=Gitlab##&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/-SonarQube-black?style=flat-square&logo=SonarQube##&logoColor=black)
 ![Linkedin Badge](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript##&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/-React-black?style=flat-square&logo=React##&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart##&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/-DotNetCore-blue?style=flat-square&logo=.net##&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-Kibana-pink?style=flat-square&logo=Kibana##&logoColor=pink)
 
 ## Conheça-me!👋, 
