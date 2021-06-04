@@ -19,13 +19,3 @@ Prazer, sou Euller, sou um 👨‍💻 programador Web e Analista de processos B
 
 "Não é a altura, nem o peso, nem os músculos que tornam uma pessoa grande, ... A grandeza de uma pessoa está em saber reconhecer sua própria pequenez. É melhor saber algumas perguntas do que todas as respostas!"
 
-## Nice to meet you!👋, 
-I am Euller, I am a 👨‍💻 Web programmer and BPM process analyst. I am passionate about technology, I love what I do and I am always willing to learn and disseminate knowledge.
-
-- 🔭 I am currently working with Laravel, BPM Processes (BPM Orchestra) and React.
-- 🌱 I am studying Devops, Automated Tests and microservices.
--  ⚡ I have already developed several systems and have expertise in educational systems.
-
-"It is better to know some questions than all the answers!"
-
-
