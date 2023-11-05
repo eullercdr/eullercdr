@@ -7,7 +7,6 @@
 ![Linkedin Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker##&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-GITLAB-red?style=flat-square&logo=Gitlab##&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript##&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart##&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-Kibana-pink?style=flat-square&logo=Kibana##&logoColor=pink)
 
 ## Conheça-me!👋, 
